@@ -103,7 +103,7 @@ def print_banner():
                          █                                █████                          █                                      █                           
                          █                              █                                █                                     █                            
                           █                                                              █                                    █   
-                                                              by NoneR00tk1t {Fore.GREEN}[FIXED & ADVANCED]{Style.RESET_ALL}
+                                                              by NoneR00tk1t 
     """)
 
 class AdvancedIPClassifier:
@@ -531,3 +531,4 @@ async def main():
 if __name__ == "__main__":
     print_banner()
     asyncio.run(main())
+
